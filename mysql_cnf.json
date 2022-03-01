@@ -1,0 +1,8 @@
+{
+    "host": "10.124.0.3",
+    "user": "node1",
+    "password": "Ulgicahe91#",
+    "connectionLimit": 10,
+    "multipleStatements": false,
+    "charset": "utf8mb4"
+}
